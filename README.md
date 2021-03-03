@@ -1,6 +1,6 @@
 # Welcome to the Funky Morph Users Group (FunkyMUG)
 This repo is intended to provide resources to help increase inclusion and transparency in functional morphology and comparative biomecahanics by helping to reduce exclusionary barriers to learning new techniques, with an emphasis on open-access techniques and promoting the professional development of early career scientists.
-* All users are expected to adhere to the following [Code of Conduct](https://docs.google.com/document/d/1Ikp5GMpU1vALkSQFzUwNiwbGcFML3boszo16GdkJmMI/edit?usp=sharing). 
+* All users are expected to adhere to the following [Code of Conduct](https://github.com/FunkyMUG/FunkyMUG/blob/main/CODE_OF_CONDUCT.md). 
 * Interested in contributing to this repo? Review our [Contributor Guidelines](https://github.com/FunkyMUG/FunkyMUG/blob/main/CONTRIBUTING.md). 
 
 ## Vision statement
