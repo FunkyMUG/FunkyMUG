@@ -20,5 +20,5 @@ Please read these instructions on how to submit a pull request on GitHub: https:
 
 ## What is the best way to communicate with other contributors?
 * GitHub: users and contributors are encouraged to post questions, feature requests, or bugs to the issues tab of this repo. 
-* Twitter: excited to share how you're using (or improving!) these resources? Post it on Twitter! Feel free to tag some of the organizers ([Jonathan Huie](https://twitter.com/jmhuiee), and [Zach Quigley](https://twitter.com/ZachQuigley_), or [Sandy Kawano](https://twitter.com/MorphoFun) or others if you would like us to help give your Tweet a signal boost!
+* Twitter: excited to share how you're using (or improving!) these resources? Post it on Twitter! Feel free to tag some of the organizers ([Jonathan Huie](https://twitter.com/jmhuiee), and [Zach Quigley](https://twitter.com/ZachQuigley_), or [Sandy Kawano](https://twitter.com/MorphoFun)) or others if you would like us to help give your Tweet a signal boost! Our lead organizer, Dr. Emily Naylor, is not on Twitter but her website contains helpful contact information: [https://ernaylor.weebly.com/](https://ernaylor.weebly.com/). 
 * E-mail: queries may also be directed to FunkyMUGers@gmail.com
