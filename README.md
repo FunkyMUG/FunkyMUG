@@ -9,8 +9,8 @@ The Fins and Limbs lab is located at The George Washington University (Washingto
 [Dr. Emily Naylor](https://ernaylor.weebly.com/) then took the initiative to lead the formation of FunkyMUG with the help of [Jonathan Huie](http://www.jonathanhuie.com/), [Zach Quigley](https://twitter.com/ZachQuigley_), and [Dr. Sandy Kawano](https://sandykawano.weebly.com/).
 
 ## Current schedule
-* Feb. 22, 2021: [Jonathan Huie](https://twitter.com/jmhuiee) and [Zach Quigley](https://twitter.com/ZachQuigley_) demonstrate how to render and measure 3D models from micro-CT image stacks. 
-* March 15, 2021 (tentative): [Dr. Eva Herbst](https://twitter.com/EvaCHerbst) demonstrates how to prep your 3D models for biomechanical analyses (e.g., FEA).
+* Feb. 22, 2021 (3:30 - 5:30 pm EST): [Jonathan Huie](https://twitter.com/jmhuiee) and [Zach Quigley](https://twitter.com/ZachQuigley_) demonstrate how to render and measure 3D models from micro-CT image stacks. 
+* March 15, 2021 (3:30 - 4:30 pm EST): [Dr. Eva Herbst](https://twitter.com/EvaCHerbst) demonstrates how to prep your 3D models for biomechanical analyses (e.g., FEA). 
 * April 12, 2021 (tentative): [Dr. Arthur Porto](https://twitter.com/ArtPorto) demonstrates how to use machine learning to automate the landmarking of 3D models. 
 * (tenative): an additional speaker on biomechanical modeling!   
 
