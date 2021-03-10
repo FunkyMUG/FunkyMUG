@@ -11,7 +11,7 @@ The Fins and Limbs lab is located at The George Washington University (Washingto
 ## Current schedule
 * Feb. 22, 2021 (3:30 - 5:30 pm EST): [Jonathan Huie](https://twitter.com/jmhuiee) and [Zach Quigley](https://twitter.com/ZachQuigley_) demonstrate how to render and measure 3D models from micro-CT image stacks. 
 * March 15, 2021 (3:30 - 4:30 pm EST): [Dr. Eva Herbst](https://twitter.com/EvaCHerbst) demonstrates how to prep your 3D models for biomechanical analyses (e.g., FEA). 
-* April 12, 2021 (tentative): [Dr. Arthur Porto](https://twitter.com/ArtPorto) demonstrates how to use machine learning to automate the landmarking of 3D models. 
+* April 12, 2021 (3:30 - 5:30 pm EST): [Dr. Arthur Porto](https://twitter.com/ArtPorto) demonstrates how to use machine learning to automate the landmarking of 3D models. 
 * (tenative): an additional speaker on biomechanical modeling!   
 
 ## Contact Info
