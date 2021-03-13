@@ -1,6 +1,8 @@
 # How to clean 3D meshes in Blender
 
-![Dr. Eva Herbst](https://pbs.twimg.com/profile_images/1174330476250718209/YbpaGt1Z_400x400.jpg)
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_images/1174330476250718209/YbpaGt1Z_400x400.jpg" />
+</p>
 
 Dr. Eva Herbst is the invited speaker for our FunkyMUG meeting on Monday, March 15, 2021, from 3:30 - 4:30 pm (EST)!
 Eva is a postdoctoral researcher at the Palaeontological Institute and Museum through the University of Zurich. 
