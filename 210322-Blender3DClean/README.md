@@ -12,7 +12,7 @@ She has extensive training in paleontology, 3D morphology, biomecahnics, and bon
 Please visit her webpage [https://t.co/eJIixHDoHL?amp=1](https://t.co/eJIixHDoHL?amp=1) for additional information. 
 
 ## Registration
-Registration is free! Please sign up by completing the following Google Form: [https://forms.gle/PXnDvKcq13PLzmew9](https://forms.gle/PXnDvKcq13PLzmew9).
+Registration is free! Please sign up by completing the following Google Form: <a href="https://forms.gle/PXnDvKcq13PLzmew9](https://forms.gle/PXnDvKcq13PLzmew9" target="_blank">https://forms.gle/PXnDvKcq13PLzmew9</a>
 If you plan to attend the live session, please register by 2 pm on March 15, 2021. 
 
 ## Synopsis of workshop
