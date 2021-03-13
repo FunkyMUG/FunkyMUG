@@ -3,11 +3,9 @@
 <div class="row">
   <div class="column">
      <img src="https://sandykawano.weebly.com/uploads/3/7/0/6/37065941/published/huie-jonathan.jpg" height="300"/>
-    <figcaption>Jonathan Huie</figcaption>
   </div>
   <div class="column">
     <img src="https://github.com/FunkyMUG/FunkyMUG/blob/main/210222-3DSlicer/Quigley_Zach.jpg" height="300"/>
-    <figcaption>Zach Quigley</figcaption>
   </div>
 </div>
 
