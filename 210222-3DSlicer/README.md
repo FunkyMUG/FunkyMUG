@@ -1,11 +1,9 @@
 # How to render 3D models from an image stack
 <div class="row">
-  <div class="column">
-    <img src="https://sandykawano.weebly.com/uploads/3/7/0/6/37065941/published/huie-jonathan.jpg" alt="Jonathan Huie" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/FunkyMUG/FunkyMUG/blob/main/210222-3DSlicer/Quigley_Zach.jpg" alt="Zach Quigley" style="width:100%">
-  </div>
+  <div class="column">
+     <img src="https://sandykawano.weebly.com/uploads/3/7/0/6/37065941/published/huie-jonathan.jpg" height = 300/>
+     <img src="https://github.com/FunkyMUG/FunkyMUG/blob/main/210222-3DSlicer/Quigley_Zach.jpg" height = 300/>
+  </div>
 </div>
 
 ## Registration
