@@ -2,12 +2,10 @@
 
 <div class="row">
   <div class="column">
-     <img src="https://sandykawano.weebly.com/uploads/3/7/0/6/37065941/published/huie-jonathan.jpg" />
-     <figcaption>Jonathan Huie</figcaption>
+     <img src="https://sandykawano.weebly.com/uploads/3/7/0/6/37065941/published/huie-jonathan.jpg" height="300"/>
   </div>
   <div class="column">
-    <img src= "https://github.com/FunkyMUG/FunkyMUG/blob/main/210222-3DSlicer/Quigley_Zach.jpg" />
-    <figcaption>Zach Quigley</figcaption>
+    <img src="https://github.com/FunkyMUG/FunkyMUG/blob/main/210222-3DSlicer/Quigley_Zach.jpg" height="300"/>
   </div>
 </div>
 
