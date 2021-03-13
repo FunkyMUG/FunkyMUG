@@ -30,6 +30,6 @@ By the end of the workshop, participants will be able to
 ## Instructions for participants
 Please read through the following instructions prior to the workshop:
 1. Download the most recent version of Blender: [https://www.blender.org/download/](https://www.blender.org/download/). 
-2. Book Dr. Herbst's Github guide on mesh cleaning: [https://github.com/evaherbst/Blender_remeshing_guide](https://github.com/evaherbst/Blender_remeshing_guide). Have it handy during the workshop because we will want to copy and paste the script in that repository (alternatively you can download and unzip the Blender repository so that you have the "Select_Angles_Python_Script.txt" script locally on your computer. 
+2. Book Dr. Herbst's Github guide on mesh cleaning: [https://github.com/evaherbst/Blender_remeshing_guide](https://github.com/evaherbst/Blender_remeshing_guide). Have it handy during the workshop because we will want to copy and paste the script in that repository (alternatively you can download and unzip the Blender repository so that you have the "Select_Angles_Python_Script.txt" script locally on your computer). 
 
 
