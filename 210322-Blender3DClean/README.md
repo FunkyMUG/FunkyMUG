@@ -13,8 +13,8 @@ Please visit her webpage [https://t.co/eJIixHDoHL?amp=1](https://t.co/eJIixHDoHL
 
 ## Registration
 Registration is free! Please sign up by completing the following Google Form: <a href="https://forms.gle/PXnDvKcq13PLzmew9](https://forms.gle/PXnDvKcq13PLzmew9" target="_blank">https://forms.gle/PXnDvKcq13PLzmew9</a>.
-If you plan to attend the live session synchronously, please register by 2 pm on March 15, 2021. 
-If you like access to the materials and recording but cannot attend the live session, please use the same registration form to be added to our email list. 
+* If you plan to attend the live session synchronously, please register by 2 pm on March 15, 2021. 
+* If you like access to the materials and recording but cannot attend the live session, please use the same registration form to be added to our email list. Users may register after the event to gain access to the materials. 
 
 ## Synopsis of workshop
 We will go through a step-by-step interactive tutorial on cleaning meshes in Blender. 
