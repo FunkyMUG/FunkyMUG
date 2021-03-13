@@ -1,7 +1,7 @@
 # How to render 3D models from an image stack
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://sandykawano.weebly.com/uploads/3/7/0/6/37065941/published/huie-jonathan.jpg" style="width: 100%">Jonathan Huie</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/FunkyMUG/FunkyMUG/blob/main/210222-3DSlicer/Quigley_Zach.jpg" style="width: 100%">Zach Quigley</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://sandykawano.weebly.com/uploads/3/7/0/6/37065941/published/huie-jonathan.jpg" style="width: 45%">Jonathan Huie</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/FunkyMUG/FunkyMUG/blob/main/210222-3DSlicer/Quigley_Zach.jpg" style="width: 45%">Zach Quigley</p>
 <p style="clear: both;">
 
 ## Registration
