@@ -6,7 +6,7 @@
      <figcaption>Jonathan Huie</figcaption>
   </div>
   <div class="column">
-    <img src=https://pbs.twimg.com/media/EusXhpZXcAYPcup?format=jpg" />
+    <img src=https://github.com/FunkyMUG/FunkyMUG/blob/main/210222-3DSlicer/Quigley_Zach.jpg" />
     <figcaption>Zach Quigley</figcaption>
   </div>
 </div>
