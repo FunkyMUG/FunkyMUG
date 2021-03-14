@@ -4,7 +4,7 @@
   <img src="https://pbs.twimg.com/profile_images/1174330476250718209/YbpaGt1Z_400x400.jpg" />
 </p>
 
-Dr. Eva Herbst is the invited speaker for our FunkyMUG meeting on Monday, March 15, 2021, from 3:30 - 4:30 pm (EST)!
+Dr. Eva Herbst (she / her / hers) is the invited speaker for our FunkyMUG meeting on Monday, March 15, 2021, from 3:30 - 4:30 pm (EST)!
 Eva is a postdoctoral researcher at the Palaeontological Institute and Museum through the University of Zurich. 
 She currently working on using 3D biomechanical modeling (including finite element analysis) to investigate form and function in Triassic reptiles, which exhibit tremendous morphological diversity in their skulls. 
 For her PhD, she worked on limb range of motion in salamanders and early tetrapods with Dr. John Hutchinson in the Structure and Motion Lab at the Royal Veterinary College. 
