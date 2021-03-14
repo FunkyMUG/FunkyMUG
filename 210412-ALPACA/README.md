@@ -30,3 +30,5 @@ Please read through the following instructions prior to the workshop:
 https://github.com/SlicerMorph/S_2020/blob/master/Tech-Checkin.md 
 3. Review a general introduction to ALPACA is also available here: 
 https://github.com/SlicerMorph/S_2020/blob/master/Lab_ALPACA/README.md
+
+**NOTE:** If you are new to 3D slicer and installing the SlicerMorph module, then our 1st workshop on 3D slicer may help! Information about this workshop is available [HERE](https://github.com/FunkyMUG/FunkyMUG/tree/main/210222-3DSlicer). You may still register for the event to obtain access to our video recording of the workshop. 
