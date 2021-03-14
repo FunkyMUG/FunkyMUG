@@ -17,19 +17,19 @@ Registration is free! Please sign up by completing the following Google Form: <a
 * If you like access to the materials and recording but cannot attend the live session, please use the same registration form to be added to our email list. Users may register after the event to gain access to the materials. 
 
 ## Synopsis of workshop
-We will go through a step-by-step interactive tutorial on cleaning meshes in Blender. 
+We will go through a step-by-step interactive tutorial on cleaning meshes in `Blender`. 
 The goal is to create a watertight, manifold mesh that can be used for finite element analysis or 3D printing. 
 A "messy" 3D mesh will be provided by Dr. Herbst, but feel free to bring your own to test out the workflow!
 
 ## Learning objectives
 By the end of the workshop, participants will be able to
-1. load mesh in Blender, 
-2. manipulate mesh in Blender (spin it around, zoom in, rename, etc), 
-3. go through all steps of the Blender cleaning process (including running a script to check for sharp edges).
+1. load mesh in `Blender`, 
+2. manipulate mesh in `Blender` (spin it around, zoom in, rename, etc), 
+3. go through all steps of the `Blender` cleaning process (including running a script to check for sharp edges).
 
 ## Instructions for participants
 Please read through the following instructions prior to the workshop:
-1. Download the most recent version of Blender: [https://www.blender.org/download/](https://www.blender.org/download/). 
-2. Book Dr. Herbst's Github guide on mesh cleaning: [https://github.com/evaherbst/Blender_remeshing_guide](https://github.com/evaherbst/Blender_remeshing_guide). Have it handy during the workshop because we will want to copy and paste the script in that repository (alternatively you can download and unzip the Blender repository so that you have the "Select_Angles_Python_Script.txt" script locally on your computer). 
+1. Download the most recent version of `Blender`: [https://www.blender.org/download/](https://www.blender.org/download/). 
+2. Book Dr. Herbst's Github guide on mesh cleaning: [https://github.com/evaherbst/Blender_remeshing_guide](https://github.com/evaherbst/Blender_remeshing_guide). Have it handy during the workshop because we will want to copy and paste the script in that repository (alternatively you can download and unzip the `Blender` repository so that you have the "Select_Angles_Python_Script.txt" script locally on your computer). 
 
 
