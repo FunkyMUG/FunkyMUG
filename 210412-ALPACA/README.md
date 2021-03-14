@@ -28,5 +28,5 @@ Please read through the following instructions prior to the workshop:
 1. Download 3D Slicer. Instructions [HERE](https://download.slicer.org/).
 2. Participants should install the latest version of SlicerMorph on the 3D Slicer application. The latest instructions are available [HERE](https://slicermorph.github.io/). Old instructions can be found here: 
 https://github.com/SlicerMorph/S_2020/blob/master/Tech-Checkin.md 
-3. (optional) Read through a general introduction to ALPACA is also available here: 
+3. Review a general introduction to ALPACA is also available here: 
 https://github.com/SlicerMorph/S_2020/blob/master/Lab_ALPACA/README.md
