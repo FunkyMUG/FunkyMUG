@@ -16,17 +16,17 @@ We will go over some basic steps to turn a raw (micro)CT scan file (i.e., image 
 
 ## Learning objectives
 By the end of the workshop, participants will be able to
-1. process raw scan files and load them into 3D Slicer for visualization and measurements
-2. segment scans using use multiple tools in 3D Slicer
+1. process raw scan files and load them into `3D Slicer` for visualization and measurements
+2. segment scans using use multiple tools in `3D Slicer`
 3. save projects and export models
 4. visualize and produce presentation-worthy animations of 3D models
 
 
 ## Instructions for participants
 There are a few free softwares and files you should have on your computer before attending Monday’s session on micro-CT scanning and segmentation. 
-1. We will mainly demonstrate how to process micro-CT scans using the open-source program 3D Slicer. Please download and install the most stable release: [https://download.slicer.org/](https://download.slicer.org/)
-2. After installing 3D Slicer, you should install two extra extensions. This is done by first opening the program. At the top of the screen, click on “View” and then click on “Extension Manager”. A pop up should appear. Navigate to “Install Extensions” and search for the two extensions “Slicermorph” and “SegmentEditorExtraEffects”. Install both of these extensions and their dependencies. Restart the program.
-3. Download and install FIJI: [https://imagej.net/Fiji.html#Downloads](https://imagej.net/Fiji.html#Downloads)
+1. We will mainly demonstrate how to process micro-CT scans using the open-source program `3D Slicer`. Please download and install the most stable release: [https://download.slicer.org/](https://download.slicer.org/)
+2. After installing `3D Slicer`, you should install two extra extensions. This is done by first opening the program. At the top of the screen, click on “View” and then click on “Extension Manager”. A pop up should appear. Navigate to “Install Extensions” and search for the two extensions “Slicermorph” and “SegmentEditorExtraEffects”. Install both of these extensions and their dependencies. Restart the program.
+3. Download and install `FIJI`: [https://imagej.net/Fiji.html#Downloads](https://imagej.net/Fiji.html#Downloads)
 4. Download the sample dataset from MorphoSource here: [https://www.morphosource.org/concern/media/000052011?locale=en](https://www.morphosource.org/concern/media/000052011?locale=en). To download the data set, you will need to first create a free account then navigate to the provided link and click download. 
-5. Download additional files and datasets from the shared google Drive here: (registered participants will receive the link via email
-6. Request a free academic license for Dragonfly (optional): [https://www.theobjects.com/dragonfly/get-trial-version-request.php](https://www.theobjects.com/dragonfly/get-trial-version-request.php)
+5. Download additional files and datasets from the shared google Drive here: (registered participants will receive the link via email)
+6. Request a free academic license for `Dragonfly` (optional): [https://www.theobjects.com/dragonfly/get-trial-version-request.php](https://www.theobjects.com/dragonfly/get-trial-version-request.php)
