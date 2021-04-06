@@ -26,9 +26,9 @@ By the end of the workshop, participants will be able to use `ALPACA` effectivel
 ## Instructions for participants
 Please read through the following instructions prior to the workshop:
 1. Download `3D Slicer`. Instructions [HERE](https://download.slicer.org/).
-2. Participants should install the latest version of `SlicerMorph` on the `3D Slicer` application. The latest instructions are available [HERE](https://slicermorph.github.io/). Old instructions can be found here: 
-https://github.com/SlicerMorph/S_2020/blob/master/Tech-Checkin.md 
+2. Participants should install the latest version of `SlicerMorph` on the `3D Slicer` application. The latest instructions are available [HERE](https://https://github.com/SlicerMorph/SlicerMorph#installation). More detailed instructions can be found here: 
+https://github.com/SlicerMorph/Spr_2021/tree/main/TechCheckin#readme
 3. Review a general introduction to `ALPACA` is also available here: 
-https://github.com/SlicerMorph/S_2020/blob/master/Lab_ALPACA/README.md
+https://github.com/SlicerMorph/Spr_2021/tree/main/Day_4/ALPACA
 
 **NOTE:** If you are new to `3D Slicer` and installing the `SlicerMorph` module, then our 1st workshop on `3D Slicer` may help! Information about this workshop is available [HERE](https://github.com/FunkyMUG/FunkyMUG/tree/main/210222-3DSlicer). You may still register for the event to obtain access to our video recording of the workshop. 
