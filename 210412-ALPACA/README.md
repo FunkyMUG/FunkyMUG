@@ -32,3 +32,9 @@ https://github.com/SlicerMorph/Spr_2021/tree/main/TechCheckin#readme
 https://github.com/SlicerMorph/Spr_2021/tree/main/Day_4/ALPACA
 
 **NOTE:** If you are new to `3D Slicer` and installing the `SlicerMorph` module, then our 1st workshop on `3D Slicer` may help! Information about this workshop is available [HERE](https://github.com/FunkyMUG/FunkyMUG/tree/main/210222-3DSlicer). You may still register for the event to obtain access to our video recording of the workshop. 
+
+
+## New to Geometric Morphometrics (GM)?
+If geometric morphometrics is a new area of research for you, we welcome you! You don't need to be an expert in geometric morphometrics to follow along with this workshop but the following resources may be helpful to review to maximize your learning experience. 
+1. Intro to Geometric Morphometrics: [https://www.youtube.com/watch?v=3Soc75ox50A](https://www.youtube.com/watch?v=3Soc75ox50A).
+2. Baruda et al. 2019. A Practical Guide to Sliding and Surface Semilandmarks in Morphometric Analyses. _Integrative Organismal Biology_. [https://academic.oup.com/iob/article/1/1/obz016/5526881](https://academic.oup.com/iob/article/1/1/obz016/5526881).  
