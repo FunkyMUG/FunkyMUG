@@ -7,7 +7,7 @@
 Dr. Arthur Porto (he / him / his) is the invited speaker for our FunkyMUG meeting on Monday, April 12, 2021, from 3:30 - 5:30 pm (EST)!
 Arthur is an Assistant Professor at the Department of Biological Sciences and Center for Computation and Technology at Louisiana State University. 
 His research focuses on understanding the evolvability of complex organisms, with particular emphasis on the role of modularity and developmental constraints in shaping multivariate evolution. 
-He is currently leading several projects with research organisms that range from marine invertebrates to mammals. In his research, he tends to use a wide array of approaches, varying from genomics to machine-learning. 
+He is currently leading several projects with research organisms that range from marine invertebrates to mammals. In his research, he tends to use a wide array of approaches, varying from genomics to machine-learning. Arthur was also short-listed for the Robert May Prize, awarded by Methods in Ecology and Evolution (read more about it here: [https://methodsblog.com/2021/04/06/the-need-to-quantify-complex-shapes/](https://methodsblog.com/2021/04/06/the-need-to-quantify-complex-shapes/)).
 You can find out more about his lab at [https://agporto.github.io/](https://agporto.github.io/) and / or his Twitter account at [@ArtPorto](https://twitter.com/ArtPorto).
 
 ## Registration
