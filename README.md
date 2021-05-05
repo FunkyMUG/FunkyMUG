@@ -12,7 +12,7 @@ The Fins and Limbs lab is located at The George Washington University (Washingto
 * **Feb. 22, 2021 (3:30 - 5:30 pm EST):** [Jonathan Huie](https://twitter.com/jmhuiee) and [Zach Quigley](https://twitter.com/ZachQuigley_) demonstrate how to render and measure 3D models from micro-CT image stacks. Workshop info [HERE](https://github.com/FunkyMUG/FunkyMUG/tree/main/210222-3DSlicer).
 * **March 15, 2021 (3:30 - 4:30 pm EST):** [Dr. Eva Herbst](https://twitter.com/EvaCHerbst) demonstrates how to prep your 3D models for biomechanical analyses (e.g., FEA). Workshop info [HERE](https://github.com/FunkyMUG/FunkyMUG/tree/main/210322-Blender3DClean).
 * **April 12, 2021 (3:30 - 5:30 PM EST):** [Dr. Arthur Porto](https://twitter.com/ArtPorto) demonstrates how to use machine learning to automate the landmarking of 3D models. Workshop info [HERE](https://github.com/FunkyMUG/FunkyMUG/blob/main/210412-ALPACA/README.md).
-* (tenative): an additional speaker on biomechanical modeling!   
+* **June 10, 2021 (3:30 - 5:30 PM EST):** [Dr. Zanne Cox](https://twitter.com/cox_zanne) demonstrates how to use OpenSim for dyanmic musculoskeletal modelling. Workshop info TBD.  
 
 ## Contact Info
 * Questions may be directed to FunkyMUGers@gmail.com. 
@@ -20,4 +20,4 @@ The Fins and Limbs lab is located at The George Washington University (Washingto
 
 ## Other resources
 * [Virtual Morphometrics Meeting](https://github.com/DworkinLab/VirtualMorphoMeetup): a great community to learn morphometrics techniques!
-* More coming! 
+* [Finite Element Zurich](https://fez-finite-element-zurich.github.io/): a virtual hub for open-access resources on finite element analyses!
